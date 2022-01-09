@@ -1,0 +1,2 @@
+# angular-resources
+Angular Resources
