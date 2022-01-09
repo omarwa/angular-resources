@@ -1,6 +1,6 @@
-# Angular Info
+# Angular Resources
 
-Useful information, resources and content about Angular!
+Useful information, content and resources about Angular!
 
 ## Angular
 
