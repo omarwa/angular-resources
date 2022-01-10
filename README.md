@@ -14,4 +14,9 @@ Useful information, content and resources about Angular!
 * [Angular Material](https://material.angular.io/)
 * [Angular Blog](https://blog.angular.io/)
 * [Angular Repo](https://github.com/angular/angular)
+* [Angular Fire Repo](https://github.com/angular/angularfire)
 
+
+### Vídeos
+
+### Courses
