@@ -17,6 +17,4 @@ Useful information, content and resources about Angular!
 * [Angular Fire Repo](https://github.com/angular/angularfire)
 
 
-### Vídeos
-
 ### Courses
