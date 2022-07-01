@@ -28,7 +28,7 @@ Useful information, content and resources about Angular!
 
 #### Pipes
 * [Pipes In Angular](https://medium.com/geekculture/pipes-in-angular-547c28f0e236)
-* [Angular Async Pipe — Here’s how to use it like a boss](https://javascript.plainenglish.io/create-a-custom-angular-pipe-62ac8c4c7865](https://dkreider.medium.com/angular-async-pipe-heres-how-to-use-it-like-a-boss-f304bf7409bd)
+* [Angular Async Pipe - Here’s how to use it like a boss](https://javascript.plainenglish.io/create-a-custom-angular-pipe-62ac8c4c7865](https://dkreider.medium.com/angular-async-pipe-heres-how-to-use-it-like-a-boss-f304bf7409bd)
 * [Create a Custom Angular Pipe](https://javascript.plainenglish.io/create-a-custom-angular-pipe-62ac8c4c7865)
 
 #### Forms
@@ -55,7 +55,7 @@ Useful information, content and resources about Angular!
 #### Error Handling
 
 #### Security
-* [Interview: OWASP Top 10 and Angular - with Dr. Philippe de Ryck - video(https://www.youtube.com/watch?v=3-_7Sh47BV4)
+* [Interview: OWASP Top 10 and Angular - with Dr. Philippe de Ryck - video](https://www.youtube.com/watch?v=3-_7Sh47BV4)
 
 
 #### Element
