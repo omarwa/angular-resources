@@ -10,11 +10,11 @@ Useful information, content and resources about Angular!
 ### Current Angular version: [![npm version](https://badge.fury.io/js/@angular%2Fcore.svg)](https://badge.fury.io/js/@angular%2Fcore)
 
 ### Official Resources
-* [Angular](https://angular.io/{:target="_blank"})
-* [Angular Material](https://material.angular.io/){:target="_blank"}
-* [Angular Blog](https://blog.angular.io/){:target="_blank"}
-* [Angular Repo](https://github.com/angular/angular){:target="_blank"}
-* [Angular Fire Repo](https://github.com/angular/angularfire){:target="_blank"}
+* [Angular](https://angular.io/)
+* [Angular Material](https://material.angular.io/)
+* [Angular Blog](https://blog.angular.io/)
+* [Angular Repo](https://github.com/angular/angular)
+* [Angular Fire Repo](https://github.com/angular/angularfire)
 
 
 
@@ -44,7 +44,7 @@ Useful information, content and resources about Angular!
 #### Error Handling
 
 #### Security
-* [Interview: OWASP Top 10 and Angular - with Dr. Philippe de Ryck](https://www.youtube.com/watch?v=3-_7Sh47BV4){:target="_blank"}
+* [Interview: OWASP Top 10 and Angular - with Dr. Philippe de Ryck](https://www.youtube.com/watch?v=3-_7Sh47BV4)
 
 
 #### Element
