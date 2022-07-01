@@ -17,12 +17,16 @@ Useful information, content and resources about Angular!
 * [Angular Fire Repo](https://github.com/angular/angularfire)
 
 
-
-### 
-
-
-
 ### Tools
+
+### Resources
+#### Security
+* [Interview: OWASP Top 10 and Angular - with Dr. Philippe de Ryck](https://www.youtube.com/watch?v=3-_7Sh47BV4)
+
+
+
+
+
 
 
 
