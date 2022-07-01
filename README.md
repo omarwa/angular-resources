@@ -10,7 +10,7 @@ Useful information, content and resources about Angular!
 ### Current Angular version: [![npm version](https://badge.fury.io/js/@angular%2Fcore.svg)](https://badge.fury.io/js/@angular%2Fcore)
 
 ### Official Resources
-* [Angular](https://angular.io/){:target="_blank"}
+* [Angular](https://angular.io/{:target="_blank"})
 * [Angular Material](https://material.angular.io/){:target="_blank"}
 * [Angular Blog](https://blog.angular.io/){:target="_blank"}
 * [Angular Repo](https://github.com/angular/angular){:target="_blank"}
